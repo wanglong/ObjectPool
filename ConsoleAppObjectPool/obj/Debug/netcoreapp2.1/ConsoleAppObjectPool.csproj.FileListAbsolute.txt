@@ -1,0 +1,12 @@
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.exe
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.deps.json
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.runtimeconfig.json
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.runtimeconfig.dev.json
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.dll
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\bin\Debug\netcoreapp2.1\ConsoleAppObjectPool.pdb
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.csprojAssemblyReference.cache
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.AssemblyInfo.cs
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.dll
+D:\AspNetCoreTest\ConsoleAppObjectPool\ConsoleAppObjectPool\obj\Debug\netcoreapp2.1\ConsoleAppObjectPool.pdb
